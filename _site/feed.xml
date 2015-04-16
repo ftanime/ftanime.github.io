@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>灰机动漫小册子</title>
+    <description>A personal review of Animation, Manga, and related</description>
+    <link>http://ftanime.github.io/</link>
+    <atom:link href="http://ftanime.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>动漫小册子，开始！</title>
+        <description>&lt;p&gt;静态页面加上Markdown，真是不错的搭配，借由Pixyll的设计现在终于搞好了第一个基于Jekyll的blog系统，整体就是一个词：简单。&lt;/p&gt;
+
+&lt;p&gt;终于还是下决心写这个Blog了，虽然到现在为止其实并没有什么具体的审美，声优梗一个都不知道，监督、制作业一概不明，看番选番完全凭感觉的我，根本不知道怎么写出像样的Review啊！更何况我连别人的Review都不看的好吗？除了诸如&lt;a href=&quot;http://space.bilibili.com/777536&quot;&gt;LexBurner&lt;/a&gt;之类的吐槽。&lt;/p&gt;
+
+&lt;p&gt;但是，东西都是靠写出来的嘛！&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Apr 2015 18:54:00 -0400</pubDate>
+        <link>http://ftanime.github.io/2015/04/15/start/</link>
+        <guid isPermaLink="true">http://ftanime.github.io/2015/04/15/start/</guid>
+      </item>
+    
+  </channel>
+</rss>

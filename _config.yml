@@ -1,0 +1,38 @@
+# Site settings
+title:       灰机动漫小册子 
+email:       william1121@gmail.com
+author:      Feitong Yang
+description: "A personal review of Animation, Manga, and related"
+baseurl:     ""
+url:         "http://ftanime.github.io"
+
+#Duoshuo short Name / 多说的shortname
+duoshuo: 
+
+#Baidu analytics / 百度统计(异步的js码，注意使用异步版本的)
+baidu_analyze:  
+
+# Google analytics
+google_analytics: UA-61916190-1
+
+# Optional features
+animated:           false
+show_related_posts: false
+show_post_footers:  false
+
+# Social icons
+show_social_icons: false
+github_username: ftanime
+twitter_username:
+google_plus_id:
+linkedin_username:
+bitcoin_url:
+paypal_url:
+flattr_button:
+
+# Build settings
+markdown:     kramdown
+permalink:    pretty
+paginate:     5
+sass:
+  compressed: true
