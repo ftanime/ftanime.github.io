@@ -13,7 +13,7 @@ no_duoshuo: true
 
 
 ##关于模板##
-感谢EE汉化这个叫做pixyll的模板，整个模板很简约，我正在添加Tag功能，以便日后整理查阅。
+感谢[EE](https://github.com/ee0703)汉化这个叫做pixyll的模板，整个模板很简约，我添加了简单的Tag，正在准备写一个页面来根据Tag来排列所有文章。另外，我在帖子后面使用了disqus作为留言板，取消了汉化版所使用的duoshuo，不知道国内看的效果怎么样。
 
 ###中文版说明###
 这是pixyll的汉化版，关于如何使用，请参考：[中文版使用说明](http://pixyll.maxee.info)
