@@ -3,7 +3,7 @@ layout:     post
 title:      K Missing Kings
 date:       2015-04-23 10:00:00
 summary:    一觉醒来，发现K的剧场版《K Missing Kings》在B站可看了！幸福来得好突然，二话不说，先看片！
-tags:		剧场版
+tags:		[剧场版, K]
 ---
 
 <span class = "tag">豆瓣: 7.9 </span> <span class = "tag"> MyAnimeList: 7.93 </span>
