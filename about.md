@@ -2,7 +2,6 @@
 layout: page
 title:  关于这个博客
 permalink: /about/
-no_duoshuo: true
 ---
 
 不知道从什么时候开始，每周追新番，每月追新番，每年追新番已经成为了生活中不可缺少的一部分。作为从大学时代才开始频繁看番的我，因为具有对什么事情都不是十分热衷性格，到现在为止看过的动画也只有大概[100来部](http://movie.douban.com/people/planeyang/collect)，很多传说中的神作，经典作我也都没有看过。对于声优、监督、制作公司等信息，我也是极其不敏感。
